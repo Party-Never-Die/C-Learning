@@ -1,5 +1,5 @@
-# C-Learning  
-B站学习C#笔记
+# C#-Learning  
+B站学习C#笔记  
 1、.Net FrameWork框架  
 .Net FrameWork框架是.Net平台中不可或缺的一部分，它提供了一个稳定的运行环境来保证我们基于.Net平台开发的各种应用能够正常的运转。  
 2、C#语言  
