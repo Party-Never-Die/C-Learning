@@ -204,14 +204,12 @@ namespace FlyingChess_FOR_FZD
             {
                 Console.ForegroundColor = ConsoleColor.DarkGray;
                 str = "Ｂ";
-
+                //英文全角ctrl+space
             }
             else if (PlayerPose[0] == i)
             {
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 str = "Ａ";
-
-
             }
             else
             {
@@ -359,12 +357,9 @@ namespace FlyingChess_FOR_FZD
             {
                 PlayerPose[1] = 99;
             }
-
-
-
         }
         /// <summary>
-        /// 胜利图标范至冬是屌丝
+        /// 胜利图标显示范至冬是屌丝
         /// </summary>
         public static void DS()
         {
@@ -378,27 +373,5 @@ namespace FlyingChess_FOR_FZD
 
                 Console.ReadLine();
         }
-    }
-    
-
-
-
+    } 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
